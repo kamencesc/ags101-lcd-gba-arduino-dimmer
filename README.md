@@ -1,4 +1,4 @@
 # NOT TESTED YET
 
-# ags101-lcd-gba-arduino-dimmer
+# GBA AGS-101 LCD Brightness Dimmer for Arduino
 Make a bright dimmer for a AGS-101 LCD installed in a classic GBA

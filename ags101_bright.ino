@@ -25,9 +25,9 @@ int bright = 200;
 #define bPin 11       //11 PWM
 
 /* ATTINY
-#define BTN_START 4
+#define BTN_START 5
 #define BTN_A 3
-#define BTN_B 2
+#define BTN_B 4
 #define bPin 0        //PWM
 */
 
